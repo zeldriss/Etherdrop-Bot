@@ -1,0 +1,2 @@
+# Etherdrop-Bot
+Etherdrop Bot
